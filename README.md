@@ -52,4 +52,4 @@ Una contraseña es **válida** si cumple todas las siguientes condiciones:
 
 ## Autor
 
-- [Tu Nombre]
+- [Romario Ramirez]
